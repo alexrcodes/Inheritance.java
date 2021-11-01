@@ -12,7 +12,7 @@ public class Main {
 		m1.scrollDown();
 		m1.scrollUp();
 		
-		//m1.texture 	 	// Mouse1 also it's own feature
+		//m1.texture 	 	// Mouse1 also has it's own feature
 		
 		
 		// same applies for Mouse2
